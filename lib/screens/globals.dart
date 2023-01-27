@@ -1,0 +1,143 @@
+
+List<Map<String, dynamic>> Images = [
+  {
+    'image':
+        'https://i.pinimg.com/550x/18/5b/c9/185bc9f6de9d8bb218cb57edc3e51c7b.jpg',
+  },
+  {
+    'image':
+        'https://w0.peakpx.com/wallpaper/367/592/HD-wallpaper-rottweiler-big-black-dog-pets-green-grass-dog-on-the-grass-dogs.jp',
+  },
+  {
+    'image': 'https://wallpaper.dog/large/5439024.jpg',
+  },
+  {
+    'image':
+        'https://cdn.pixabay.com/photo/2019/08/19/07/45/corgi-4415649__340.jpg',
+  },
+  {
+    'image':
+        'https://cdn.stocksnap.io/img-thumbs/280h/husky-animal_TYODF6XSBW.jpg',
+  },
+];
+
+List<Map<String, dynamic>> Car = [
+  {
+    'Car':
+        'https://www.teahub.io/photos/full/161-1610688_editing-wallpaper-download-ferrari-car-full-hd.jpg',
+  },
+  {
+    'Car':
+        'https://cdn.suwalls.com/wallpapers/cars/2016-gray-ford-mustang-54632-1920x1080.jpg',
+  },
+  {
+    'Car':
+        'https://images.freecreatives.com/wp-content/uploads/2015/06/cool-car-wallpapers-hd.jpg',
+  },
+  {
+    'Car':
+        'https://www.itl.cat/pngfile/big/25-255724_download-wallpaper-audi-cars-wallpapers-hd.jpg',
+  },
+  {
+    'Car':
+        'https://cutewallpaper.org/21/ferrari-car-images-full-hd/Best-New-Ferrari-Car-Photos-Hd-Pictures-November-2019-.jpg',
+  },
+  {
+    'Car':
+        'https://c4.wallpaperflare.com/wallpaper/933/655/689/bmw-bmw-m2-car-vehicle-blue-cars-hd-wallpaper-preview.jpg',
+  },
+];
+// Images = car;
+
+List<Map<String, dynamic>> Dog = [
+  {
+    'Dog':
+        'https://i.pinimg.com/550x/18/5b/c9/185bc9f6de9d8bb218cb57edc3e51c7b.jpg',
+  },
+  {
+    'Dog':
+        'https://w0.peakpx.com/wallpaper/367/592/HD-wallpaper-rottweiler-big-black-dog-pets-green-grass-dog-on-the-grass-dogs.jp',
+  },
+  {
+    'Dog': 'https://wallpaper.dog/large/5439024.jpg',
+  },
+  {
+    'Dog':
+        'https://cdn.pixabay.com/photo/2019/08/19/07/45/corgi-4415649__340.jpg',
+  },
+  {
+    'Dog':
+        'https://cdn.stocksnap.io/img-thumbs/280h/husky-animal_TYODF6XSBW.jpg',
+  },
+];
+
+List<List<Map<String, dynamic>>> allList = [
+  [
+    {
+      'image':
+          'https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg',
+    },
+    {
+      'image':
+          'https://images.wallpapersden.com/image/download/4k-a-different-world_bWVqaG6UmZqaraWkpJRmbmdlrWZlbWU.jpg',
+    },
+    {
+      'image':
+          'https://t3.ftcdn.net/jpg/05/35/47/38/360_F_535473874_OWCa2ohzXXNZgqnlzF9QETsnbrSO9pFS.jpg',
+    },
+    {
+      'image':
+          'https://mobimg.b-cdn.net/v3/fetch/62/624e27fde335d49e2dd3c6b75c6027a3.jpeg',
+    },
+    {
+      'image': 'https://images6.alphacoders.com/476/476288.jpg',
+    },
+  ],
+  [
+    {
+      'image':
+          'https://www.teahub.io/photos/full/161-1610688_editing-wallpaper-download-ferrari-car-full-hd.jpg',
+    },
+    {
+      'image':
+          'https://cdn.suwalls.com/wallpapers/cars/2016-gray-ford-mustang-54632-1920x1080.jpg',
+    },
+    {
+      'image':
+          'https://images.freecreatives.com/wp-content/uploads/2015/06/cool-car-wallpapers-hd.jpg',
+    },
+    {
+      'image':
+          'https://www.itl.cat/pngfile/big/25-255724_download-wallpaper-audi-cars-wallpapers-hd.jpg',
+    },
+    {
+      'image':
+          'https://cutewallpaper.org/21/ferrari-car-images-full-hd/Best-New-Ferrari-Car-Photos-Hd-Pictures-November-2019-.jpg',
+    },
+    {
+      'image':
+          'https://c4.wallpaperflare.com/wallpaper/933/655/689/bmw-bmw-m2-car-vehicle-blue-cars-hd-wallpaper-preview.jpg',
+    },
+  ],
+  [
+    {
+      'image':
+          'https://i.pinimg.com/550x/18/5b/c9/185bc9f6de9d8bb218cb57edc3e51c7b.jpg',
+    },
+    {
+      'image':
+          'https://w0.peakpx.com/wallpaper/367/592/HD-wallpaper-rottweiler-big-black-dog-pets-green-grass-dog-on-the-grass-dogs.jp',
+    },
+    {
+      'image': 'https://wallpaper.dog/large/5439024.jpg',
+    },
+    {
+      'image':
+          'https://cdn.pixabay.com/photo/2019/08/19/07/45/corgi-4415649__340.jpg',
+    },
+    {
+      'image':
+          'https://cdn.stocksnap.io/img-thumbs/280h/husky-animal_TYODF6XSBW.jpg',
+    },
+  ],
+];
